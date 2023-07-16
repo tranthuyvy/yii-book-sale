@@ -55,18 +55,18 @@ AppAsset::register($this);
                 <span>Types</span></a>
         </li>
 
-        <!-- Nav Item - Supplies -->
+        <!-- Nav Item - Publisher -->
         <li class="nav-item">
             <a class="nav-link" href="tables.html">
                 <i class="fas fa-fw fa-table"></i>
-                <span>Supplies</span></a>
+                <span>Publishers</span></a>
         </li>
 
-        <!-- Nav Item - Customer -->
+        <!-- Nav Item - Account -->
         <li class="nav-item">
             <a class="nav-link" href="tables.html">
                 <i class="fas fa-fw fa-table"></i>
-                <span>Customer</span></a>
+                <span>Account</span></a>
         </li>
 
         <!-- Divider -->
